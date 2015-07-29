@@ -1,0 +1,1 @@
+Step-by-step explanation is [here](http://kosty.github.io/blog/HTTPS-with-Jetty-9)
